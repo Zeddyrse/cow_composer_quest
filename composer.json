@@ -1,0 +1,15 @@
+{
+    "name": "jeremy/cow_composer_quest",
+    "autoload": {
+        "psr-4": {
+            "Jeremy\\CowComposerQuest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "jeremy",
+            "email": "jeremy.guimard.pro@gmail.com"
+        }
+    ],
+    "require": {}
+}
